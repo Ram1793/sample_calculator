@@ -1,0 +1,36 @@
+.Calculator {text-align: center;}
+table {
+border: 1px solid;
+margin: auto;
+}
+input {
+    font-size: 50px;
+    height: 100px;
+    width: 358px;
+    background-color: #fff0e6;
+}
+button {
+    border-radius: 2px;
+    width: 85px;
+    align-items: center;
+    background-clip: padding-box;
+    background-color: #fa6400;
+    box-shadow: rgb(0 0 0 / 2%) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 2.25;
+    margin: 0;
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+}
+
+#equals { 
+width: 180px;  
+}
